@@ -21,4 +21,5 @@ output: 050247-21
 [Google验证器是如何实现的？](https://mp.weixin.qq.com/s/huZC7tQcqxGQkq57c0sBqA)
 
 ### 欢迎关注
-![avatar](https://github.com/xiaoxuz/fql/blob/master/wechat.jpg)
+![avatar](https://github.com/xiaoxuz/limiter/blob/main/wechat.png)
+
